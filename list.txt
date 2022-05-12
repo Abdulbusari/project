@@ -2,7 +2,10 @@ Components
 
     Header 
     Footer
-    Hero Banner
+    100vh Hero Banner
     Article page
     Contact
     Modal
+    login page
+    login Modal
+    Icons
