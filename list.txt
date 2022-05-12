@@ -7,4 +7,4 @@ Components
     Contact
     Modal
     Login page
-    Login Modal
+    Login Modall
