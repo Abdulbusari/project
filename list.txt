@@ -8,4 +8,4 @@ Components
     Modal
     login page
     login Modal
-    Icons
+    Awesome Icons
