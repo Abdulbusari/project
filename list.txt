@@ -1,5 +1,6 @@
 Components
 
+<<<<<<< HEAD
     Header 
     Footer
     100vh Hero Banner
@@ -9,3 +10,13 @@ Components
     login page
     login Modal
     Awesome Icons
+=======
+    Footer
+    Hero Banner
+    Pricing section
+    Article page
+    Contact
+    Modal
+    Login page
+    Login Modall
+>>>>>>> feature-one
