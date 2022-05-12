@@ -1,8 +1,8 @@
 Components
 
-    Header 
     Footer
     Hero Banner
+    Pricing section
     Article page
     Contact
     Modal
